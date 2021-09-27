@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetiana1386/nodejs-lessons.git"
+  },
+  "author": "Tetiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetiana1386/nodejs-lessons/issues"
+  },
+  "homepage": "https://github.com/Tetiana1386/nodejs-lessons#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-modules": "^1.0.1"
+  }
+}
